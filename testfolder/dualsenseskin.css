@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/nXaGdI2.png);
+    background: url(ps4sticksoverlay3.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/DVqDSsJ.png);
+    background: url(ps4buttonsoverlay3.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -72,7 +72,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/hCmzXWK.png);
+    background: url(ps4dpadoverlay3.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {

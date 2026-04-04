@@ -5,8 +5,8 @@ body {
     overflow: hidden; 
 } .controller.xbox{
     background: url(ps5overlay3.png);
-    width: 807px;
-    height: 651px;
+    width: 806px;
+    height: 598px;
     margin-left: 0;
     margin-top: 0;
 } .xbox .sticks {

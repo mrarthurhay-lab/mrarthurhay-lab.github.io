@@ -10,14 +10,14 @@ body {
     margin-left: 0;
     margin-top: 0;
 } .xbox .sticks {
-	width: 367px;
-    height: 100px;
-    left: 220px;
-    top: 333px;
+	width: 361px;
+    height: 105px;
+    left: 228px;
+    top: 308px;
 }.xbox .stick {
     background: url(ps5sticksoverlay3.png);
-    width: 100px;
-    height: 100px;
+    width: 94px;
+    height: 94px;
 } .xbox .stick.pressed {
     background-position: -102px 0;
 } .xbox .stick.right {
